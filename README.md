@@ -1,12 +1,9 @@
-# CO_ads_prediction
-
-**Description and Overview**
-Machine learning codes and analysis for predicting the adsorption energy of CO on single atoms embeded CxNy
-for sreening potential CORR catalysts. 
+Machine learning codes and analysis for predicting the adsorption energy of CO on single atoms embedded CxNy
+for screening potential CORR catalysts. 
 
 **Dependencies**
 SKlearn: Machine learning toolkit used for model training and predictions
-Pandas: Excel and dataframe operations
+Pandas: Excel and data frame operations
 Numpy: Vector and matrix operations
 Pytorch: Machine learning framework for neural networks
 Matplotlib: Data visualization toolkit

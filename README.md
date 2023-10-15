@@ -1,6 +1,6 @@
 **Description and Overview**
 
-Machine learning codes and analysis for predicting the adsorption energy of CO on single atoms embedded CxNy
+Machine learning codes and analysis for predicting the adsorption energy of CO, OH, NO, N2 on single atoms embedded CxNy
 for screening potential CORR catalysts. 
 
 **Dependencies**
